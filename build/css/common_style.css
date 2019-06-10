@@ -1,0 +1,48 @@
+html {
+
+}
+
+body {
+	font-family: 'Lobster', cursive;
+	    height: 100%;
+    background: linear-gradient(rgba(255, 153, 051, 0.2) 50%, #fafafa 50%);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav{
+  background-color: transparent !important;
+  border: none;
+  box-shadow: none;
+}
+ 
+
+
+nav ul a {
+    -webkit-transition: background-color .3s;
+    transition: background-color .3s;
+    font-size: 1rem;
+    color: #bdbdbd;
+    display: block;
+    padding: 0 15px;
+    cursor: pointer;
+}
+
+
+.s_section1 .s_container1 {
+	font-family: 'Comfortaa', cursive;
+	text-align: center;
+	font-size: 1.3rem;
+	display: inline-block;
+	width: 30%; 
+	margin: 100px;
+}
+
+.s_section2 .s_container2 {
+	display: inline-block;
+	width: 65%; 
+	float: right;
+}
+
+
+
